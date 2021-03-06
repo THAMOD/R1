@@ -5,5 +5,25 @@
     <string name="BookTitle">Book Title</string>
     <string name="BookAouther">Book Aouther</string>
     <string name="nop">Number of pages</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="sign_in">SIGN IN</string>
+    <string name="register">DONT HAVE AN ACCOUNT ? SIGN UP</string>
+    <string name="delete_all">delete all</string>
+    <string name="home">Home</string>
+    <string name="add_new_book">Add New Book</string>
+    <string name="logout">Logout</string>
+    <string name="Account">Account</string>
+    <string name="shre">Share</string>
+    <string name="about">About</string>
+    <string name="rate">Rate</string>
+    <string name="update">Update</string>
+    <string name="delete">Delete</string>
+    <string name="email">Email</string>
+    <string name="areyousur">Are You Sure You Want To Delete All Data ?</string>
+    <string name="nodata">NO DATA !</string>
+    <string name="signup">SIGN UP</string>
+    <string name="alread"> Already Have an Account?  Sign in</string>
+
     <string name="add">Add </string>
 </resources>

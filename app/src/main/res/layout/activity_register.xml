@@ -18,7 +18,7 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:fontFamily="sans-serif"
-            android:text="SIGN UP"
+            android:text="@string/signup"
             android:textColor="#FFFFFF"
             android:textSize="20sp"/>
     </LinearLayout>
@@ -40,7 +40,7 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:background="@drawable/edit_text_top"
-            android:hint="Username"
+            android:hint="@string/username"
             android:textColor="#000"
             android:textColorHint="#548"
             android:inputType="textPersonName"
@@ -51,7 +51,7 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:background="@drawable/edit_text_middle"
-            android:hint="Email"
+            android:hint="@string/email"
             android:textColor="#000"
             android:textColorHint="#548"
             android:inputType="textEmailAddress"
@@ -63,7 +63,7 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:background="@drawable/edit_text_middle"
-            android:hint="Password"
+            android:hint="@string/password"
             android:textColorHint="#548"
 
             android:inputType="textPassword"
@@ -73,7 +73,7 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:background="@drawable/edit_text_middle"
-            android:hint="Password"
+            android:hint="@string/password"
             android:textColor="#000"
             android:textColorHint="#548"
 
@@ -89,7 +89,7 @@
             android:layout_marginTop="10dp"
             android:background="@drawable/button"
             android:foreground="?android:attr/selectableItemBackground"
-            android:text="SIGN UP"
+            android:text="@string/signup"
             android:textAllCaps="false"
             android:textColor="#FE5295"
             android:textSize="17sp"/>

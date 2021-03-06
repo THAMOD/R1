@@ -7,5 +7,24 @@
     <string name="BookAouther">مؤلف الكتاب </string>
     <string name="nop">عدد صفحات الكتاب </string>
     <string name="add">اظافة </string>
+    <string name="username">اسم المستخدم </string>
+    <string name="password">كلمة المرور </string>
+    <string name="sign_in">تسجيل الدخول </string>
+    <string name="register">ليس لديك حساب ؟ التسجيل </string>
+    <string name="delete_all"> حذف الكل</string>
+    <string name="home">الرئيسية</string>
+    <string name="add_new_book">اظافة كتاب </string>
+    <string name="logout">تسجيل خروج</string>
+    <string name="Account">الحساب </string>
+    <string name="shre">مشاركة</string>
+    <string name="about">عن البرنامج</string>
+    <string name="rate">تقييم</string>
+    <string name="update">تعديل</string>
+    <string name="delete">حذف</string>
+    <string name="email">البريد الالكتروني</string>
+    <string name="areyousur">هل انت متاكد من انك تريد حذف جميع البيانات</string>
+    <string name="nodata">لايوجد بيانات</string>
+    <string name="signup">التسجيل</string>
+    <string name="alread"> هل لديك حساب بالفعل ؟ تسجيل الدخول </string>
 
 </resources>

@@ -22,7 +22,7 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:fontFamily="sans-serif"
-            android:text="SIGN IN"
+            android:text="@string/sign_in"
             android:textColor="#FFFFFF"
             android:textSize="20sp" />
 
@@ -48,7 +48,7 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:background="@drawable/edit_text_top"
-            android:hint="Username"
+            android:hint="@string/username"
             android:textColor="#000"
             android:inputType="textPersonName"
             android:layout_marginBottom="8dp"
@@ -61,7 +61,7 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:background="@drawable/edit_text_bottom"
-            android:hint="Password"
+            android:hint="@string/password"
             android:inputType="textPassword"
             android:padding="15dp" />
 
@@ -73,7 +73,7 @@
             android:layout_marginTop="10dp"
             android:background="@drawable/button"
             android:foreground="?android:attr/selectableItemBackground"
-            android:text="SIGN IN"
+            android:text="@string/sign_in"
             android:textColorLink="@color/cardview_light_background"
             android:textAllCaps="false"
             android:textColor="#FE5295"
@@ -86,7 +86,7 @@
             android:layout_marginTop="3dp"
             android:fontFamily="sans-serif"
             android:padding="10dp"
-            android:text="Don't Have an Account?  Sign Up"
+            android:text="@string/register"
             android:textAllCaps="true"
             android:textColor="#FAD0E1"
             android:textSize="13dp"
