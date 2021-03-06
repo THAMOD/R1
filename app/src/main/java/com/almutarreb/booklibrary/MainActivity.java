@@ -58,6 +58,9 @@ ImageView side_menu;
                 drawerLayout.openDrawer(GravityCompat.START);
             }
         });
+        toolbar=findViewById(R.id.toolbar);
+        toolbar.bringToFront();
+        toolbar.inflateMenu(R.menu.my_menu);
 drawerLayout=findViewById(R.id.drawer_layout);
 navigationView=findViewById(R.id.navigation_view);
 navigationView.bringToFront();
