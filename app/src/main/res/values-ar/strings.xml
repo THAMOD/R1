@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">تطبيق المكتبة</string>
+    <string name="navigation_drawer_open">open navigation drawer</string>
+    <string name="navigation_drawer_close">close navigation drawer</string>
+    <string name="BookTitle">عنوان الكتاب</string>
+    <string name="BookAouther">مؤلف الكتاب </string>
+    <string name="nop">عدد صفحات الكتاب </string>
+    <string name="add">اظافة </string>
+
+</resources>

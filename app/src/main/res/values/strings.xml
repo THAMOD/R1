@@ -2,4 +2,8 @@
     <string name="app_name">Book Library</string>
     <string name="navigation_drawer_open">open navigation drawer</string>
     <string name="navigation_drawer_close">close navigation drawer</string>
+    <string name="BookTitle">Book Title</string>
+    <string name="BookAouther">Book Aouther</string>
+    <string name="nop">Number of pages</string>
+    <string name="add">Add </string>
 </resources>
