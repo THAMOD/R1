@@ -25,9 +25,10 @@
             android:label="Add Book"
             android:parentActivityName=".MainActivity" />
         <activity
-
             android:name=".MainActivity"
+            android:theme="@style/Theme.MaterialComponents.DayNight.NoActionBar"
             android:label="Book Library">
+
 
         </activity>
     </application>
